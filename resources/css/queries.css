@@ -1,0 +1,162 @@
+
+
+@media only screen and (max-width: 1326px) {
+  .section-get-us {
+    overflow: hidden;
+    height: 77vh;
+  }
+}
+
+@media only screen and (max-width: 1156px) {
+  .section-get-us {
+    overflow: hidden;
+    height: 75vh;
+  }
+
+  .row {
+    max-width: 1040px;
+    margin: 0 auto;
+  }
+
+}
+
+@media only screen and (max-width: 1066px) {
+
+  .row {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+
+}
+
+@media only screen and (max-width: 1010px) {
+
+  .row {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  .hero {
+    font-size: 90%;
+    text-align: center;
+
+  }
+
+  .hero h1 {
+    font-size: 150%;
+  }
+  .header-form {
+    visibility: hidden;
+  }
+
+  .paragraph {
+    font-size: 70%;
+  }
+
+  .section-footer img {
+    margin-left: 10px;
+  }
+  .section-footer h4 {
+    margin-left: 10px;
+  }
+
+  .section-team .row:first-child {
+    margin-left: 10px;
+  }
+
+  .showcase {
+    padding:0px 0px;
+    border-radius: 45%;
+  }
+
+  .footer-nav {
+    font-size: 70%;
+  }
+  .section-services .icon-big {
+    width: 100%;
+    display: inline-grid;
+    margin-top: -30px;
+  }
+  .section-services h2 {
+    position: relative;
+  }
+}
+
+@media only screen and (max-width: 894px) {
+
+
+
+  .row {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .main-nav {
+    display: none;
+  }
+
+  .mobile-menu {
+    display:inline;
+    float: right;
+    color: white;
+    font-size: 200%;
+    margin-top: 20px;
+    cursor: pointer;
+  }
+
+  h2 {
+    font-size: 120%;
+  }
+
+  h4{
+    font-size: 60%;
+  }
+
+  .footer-nav {
+    font-size: 60%;
+  }
+
+}
+
+
+@media only screen and (max-width: 752px) {
+
+
+
+  .row {
+    max-width: 80%;
+    margin: 0 auto;
+  }
+
+  .showcase {
+    display: none;
+  }
+
+  .section-team {
+
+    height: 140vh;
+
+  }
+
+  .col {
+    width: 100%;
+  }
+
+  .footer-nav {
+    font-size: 55%;
+  }
+
+  .section-services .icon-big {
+    margin-top: -150px;
+  }
+
+  .section-get-us {
+    overflow: visible;
+    height: 110vh;
+  }
+
+  .section-get-us .box-left {
+    margin-left: 10%;
+  }
+
+}
